@@ -1,10 +1,10 @@
 <?php
 
- /*
+/*
   Arabic Spinner Api
-  Url : http://syriancoders.com/
-  Copyright © Syrian Coders 2016. All Rights Reserved
-  Phone : +90553376202 / +905060604007
+  Url : http://sayedsoft.com/
+  Copyright © Sayedsoft 2016. All Rights Reserved
+  Phone : +90553376202
  */
  
  $apikey   = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";  // Enter Your Api Key
